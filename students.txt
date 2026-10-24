@@ -1,0 +1,8 @@
+# Format: studentNumber|lastName|firstName|middleInitial|course|yearLevel
+20250875-S|Bejemino|Angelo|C|BSCS|2
+20250853-S|Ingel|Rosh|J|BSIT|1
+20250398-S|Jadraque|Eric Miguel|B|BSA|3
+20250824-S|Mangila|James Stephen|N|BSCS|2
+20250220-S|Punay|Steven Kenn|P|BSHM|4
+2025-0006|Flores|Sofia|A|BSIT|1
+2025-0007|Ramos|Daniel|-|BSCS|3

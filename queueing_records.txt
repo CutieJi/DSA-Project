@@ -1,0 +1,9 @@
+ADDED TO QUEUE | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: -
+SERVICE ADDED | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: Requesting of Diploma
+ADDED TO QUEUE | Student No.: 20250875-S | Name: Angelo C. Bejemino | Course: BSCS | Year: 2 | Service: -
+SERVICE ADDED | Student No.: 20250875-S | Name: Angelo C. Bejemino | Course: BSCS | Year: 2 | Service: Requesting of TOR
+SERVED AT WINDOW 1 | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: Requesting of Diploma
+ADDED TO QUEUE | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: -
+SERVICE ADDED | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: Requesting of Diploma
+SERVED AT WINDOW 1 | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: Requesting of Diploma
+SERVICE COMPLETED AT WINDOW 1 | Student No.: 20250853-S | Name: Rosh J. Ingel | Course: BSIT | Year: 1 | Service: Requesting of Diploma
